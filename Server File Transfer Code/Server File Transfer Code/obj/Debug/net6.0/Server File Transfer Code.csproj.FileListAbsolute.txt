@@ -1,0 +1,14 @@
+C:\Users\Developer\source\repos\Server File Transfer Code\Server File Transfer Code\bin\Debug\net6.0\Server File Transfer Code.exe
+C:\Users\Developer\source\repos\Server File Transfer Code\Server File Transfer Code\bin\Debug\net6.0\Server File Transfer Code.deps.json
+C:\Users\Developer\source\repos\Server File Transfer Code\Server File Transfer Code\bin\Debug\net6.0\Server File Transfer Code.runtimeconfig.json
+C:\Users\Developer\source\repos\Server File Transfer Code\Server File Transfer Code\bin\Debug\net6.0\Server File Transfer Code.dll
+C:\Users\Developer\source\repos\Server File Transfer Code\Server File Transfer Code\bin\Debug\net6.0\Server File Transfer Code.pdb
+C:\Users\Developer\source\repos\Server File Transfer Code\Server File Transfer Code\obj\Debug\net6.0\Server File Transfer Code.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Developer\source\repos\Server File Transfer Code\Server File Transfer Code\obj\Debug\net6.0\Server File Transfer Code.AssemblyInfoInputs.cache
+C:\Users\Developer\source\repos\Server File Transfer Code\Server File Transfer Code\obj\Debug\net6.0\Server File Transfer Code.AssemblyInfo.cs
+C:\Users\Developer\source\repos\Server File Transfer Code\Server File Transfer Code\obj\Debug\net6.0\Server File Transfer Code.csproj.CoreCompileInputs.cache
+C:\Users\Developer\source\repos\Server File Transfer Code\Server File Transfer Code\obj\Debug\net6.0\Server File Transfer Code.dll
+C:\Users\Developer\source\repos\Server File Transfer Code\Server File Transfer Code\obj\Debug\net6.0\refint\Server File Transfer Code.dll
+C:\Users\Developer\source\repos\Server File Transfer Code\Server File Transfer Code\obj\Debug\net6.0\Server File Transfer Code.pdb
+C:\Users\Developer\source\repos\Server File Transfer Code\Server File Transfer Code\obj\Debug\net6.0\Server File Transfer Code.genruntimeconfig.cache
+C:\Users\Developer\source\repos\Server File Transfer Code\Server File Transfer Code\obj\Debug\net6.0\ref\Server File Transfer Code.dll

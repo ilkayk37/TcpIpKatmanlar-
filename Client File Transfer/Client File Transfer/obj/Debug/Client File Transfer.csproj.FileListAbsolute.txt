@@ -1,0 +1,7 @@
+C:\Users\Developer\source\repos\Client File Transfer\Client File Transfer\bin\Debug\Client File Transfer.exe.config
+C:\Users\Developer\source\repos\Client File Transfer\Client File Transfer\bin\Debug\Client File Transfer.exe
+C:\Users\Developer\source\repos\Client File Transfer\Client File Transfer\bin\Debug\Client File Transfer.pdb
+C:\Users\Developer\source\repos\Client File Transfer\Client File Transfer\obj\Debug\Client File Transfer.csproj.AssemblyReference.cache
+C:\Users\Developer\source\repos\Client File Transfer\Client File Transfer\obj\Debug\Client File Transfer.csproj.CoreCompileInputs.cache
+C:\Users\Developer\source\repos\Client File Transfer\Client File Transfer\obj\Debug\Client File Transfer.exe
+C:\Users\Developer\source\repos\Client File Transfer\Client File Transfer\obj\Debug\Client File Transfer.pdb
